@@ -1,0 +1,14 @@
+img{
+	allign: center;
+}
+a{
+  color: yellow;
+  width: 1270px;
+  
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+html {
+  background-color: #000000;
+}
